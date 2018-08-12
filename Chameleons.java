@@ -18,7 +18,7 @@ public class Chameleons extends Thread{
 		Message("Je suis en train de m'entrainer");
 	}
 	private void AllerAlAgora(){
-		Message("Je vais à l'Agora");
+		Message("Je vais Ã  l'Agora");
 	}
 	private void Mutation(){
 		Message("Je veux faire une mutation");
@@ -35,4 +35,3 @@ Mutation();
 		}
 	}
 }
-	}
